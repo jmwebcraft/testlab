@@ -1,0 +1,33 @@
+header {
+height: 200px;
+
+}
+
+.page-wrapper {
+  height: 100vh;
+  background-color: rgba(52, 52, 52, 1);
+
+  background-image: url("../img/fuzz.png"), radial-gradient(circle, rgba(255,255,255,0.4) 0%, rgba(1,1,1,0.7) 100%);
+;
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.hero-stage {
+  height: 100%;
+  background: rgba(0, 0, 0, .5);
+}
+
+.hello-text {
+  font-family: 'Crimson Pro', serif;
+  color: #fff;
+  padding-top: 20%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.big {
+font-size: 5rem;
+
+}
